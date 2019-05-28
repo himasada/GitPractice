@@ -25,5 +25,12 @@ public class MavpracTest {
 		int b= 5;
 		System.out.println(a*b);
 	}
+	@Test
+	public void division()
+	{
+		int a=5;
+		int b=25;
+		System.out.println(b/a);
+	}
 
 }
