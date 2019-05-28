@@ -9,6 +9,7 @@ public class MavpracTest {
 		int a= 2;
 		int b= 3;
 		System.out.println(a+b);
+		
 	}
 	@Test
 	public void sub()
@@ -16,6 +17,13 @@ public class MavpracTest {
 		int a= 2;
 		int b= 3;
 		System.out.println(b-a);
+	}
+	@Test
+	public void multiply()
+	{
+		int a=4;
+		int b= 5;
+		System.out.println(a*b);
 	}
 
 }
