@@ -46,5 +46,10 @@ public class MavpracTest {
 			System.out.println(a);
 		}
 	}
+	@Test
+	public void lesser()
+	{
+		System.out.println("lesser");
+	}
 
 }
