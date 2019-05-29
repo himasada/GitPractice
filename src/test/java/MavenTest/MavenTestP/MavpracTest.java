@@ -32,5 +32,19 @@ public class MavpracTest {
 		int b=25;
 		System.out.println(b/a);
 	}
+	@Test
+	public void greater()
+	{
+		int a=7;
+		int b=9;
+		if(b>a)
+		{
+			System.out.println(b);
+		}
+		else
+		{
+			System.out.println(a);
+		}
+	}
 
 }
