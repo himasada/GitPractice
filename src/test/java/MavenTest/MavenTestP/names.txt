@@ -1,8 +1,7 @@
 abc
 def
 ghi
-jkl
-mno
+
 numbers
 1
 2
